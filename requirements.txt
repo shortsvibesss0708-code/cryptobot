@@ -1,3 +1,5 @@
 streamlit
 ccxt
 pandas
+altair
+requests
