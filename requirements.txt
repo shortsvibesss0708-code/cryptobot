@@ -1,5 +1,0 @@
-streamlit
-pandas
-ccxt
-altair
-requests
